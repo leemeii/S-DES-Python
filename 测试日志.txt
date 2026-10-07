@@ -1,0 +1,15 @@
+test_all_blocks_and_keys (__main__.SDESTests.test_all_blocks_and_keys) ... ok
+test_ascii (__main__.SDESTests.test_ascii) ... ok
+test_brute_force (__main__.SDESTests.test_brute_force) ... ok
+test_collision_groups (__main__.SDESTests.test_collision_groups) ... ok
+test_equivalent_keys (__main__.SDESTests.test_equivalent_keys) ... ok
+test_independent_reference (__main__.SDESTests.test_independent_reference) ... ok
+test_invalid_inputs (__main__.SDESTests.test_invalid_inputs) ... ok
+test_key_schedule (__main__.SDESTests.test_key_schedule) ... ok
+test_parse_pairs (__main__.SDESTests.test_parse_pairs) ... ok
+test_public_encrypt_decrypt (__main__.SDESTests.test_public_encrypt_decrypt) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 10.571s
+
+OK
